@@ -1,0 +1,94 @@
+Jul 05, 2016 12:08:03 PM program.Client.ClinicManager main
+INFO: Doctor record created successfully for  aafdsgs
+The nurse Record for:sdfdf  added
+Record added
+The doctor Record for:tasiud  added
+The accesses Record for:dr1001 is :First Name: tasiud
+ Last Nameasdaf
+Address:adfdf
+Location: lvl
+Specializationsdfjnksdfn
+The nurse Record for:sdfdsf  added
+The accesses Record for:nr1002 is :First Name: dsfjnksfjn
+ Last name: sdfdsf
+ Status: sdfsdf
+Status Date: sdfsf
+Designation: sdfsdf
+Sorry the given id DR1001...doesn't exist!!
+Sorry the given id NR1002...doesn't exist!!
+Sorry the given id DR1001...doesn't exist!!
+The nurse Record for:sdfsdf  added
+The accesses Record for:nr1001 is :First Name: sdfsdf
+ Last name: sdfsdf
+ Status: sddfsdvs
+Status Date: sdfsdf
+Designation: sdfdf
+The nurse Record for:sdfdsf  added
+The accesses Record for:nr1001 is :First Name: ajddfjdc
+ Last name: sdfdsf
+ Status: svsfv
+Status Date: sdfdsfs
+Designation: sdsd
+The nurse Record for:nr1001 field :statuschnaged to :piiplelinein
+The accesses Record for:nr1001 is :First Name: ajddfjdc
+ Last name: sdfdsf
+ Status: piiplelinein
+Status Date: sdfdsfs
+Designation: sdsd
+The nurse Record for:sgfdgfs  added
+The nurse Record for:dfgfdg  added
+The nurse Record for:sdfdsf  added
+The accesses Record for:nr1001 is :First Name: sdfdf
+ Last name: sdfdsf
+ Status: sdfdf
+Status Date: sdfdsf
+Designation: sdfdsfs
+The nurse Record for:nr1001 field :statuschnaged to :carzy x++
+The accesses Record for:nr1001 is :First Name: sdfdf
+ Last name: sdfdsf
+ Status: carzy x++
+Status Date: sdfdsf
+Designation: sdfdsfs
+The doctor Record for:asdsd  added
+The accesses Record for:dr1002 is :No record found
+The accesses Record for:dr1002 is :No record found
+The nurse Record for:dr1002 field :specializationchnaged to :surgery
+The accesses Record for:dr1002 is :No record found
+The nurse Record for:sdfd  added
+The nurse Record for:dfgfg  added
+Sorry the given id nr1001...doesn't exist!!
+Sorry the given id nr1002...doesn't exist!!
+Sorry the given id nr1001...doesn't exist!!
+Sorry the given id nr1001...doesn't exist!!
+The nurse Record for:gvghh  added
+The accesses Record for:nr1001 is :First Name: hgvhgh
+ Last name: gvghh
+ Status: hghgggh
+Status Date: hjgjhgjh
+Designation: hjhjb
+The nurse Record for:cvvcxv  added
+The nurse Record for:sddf  added
+The accesses Record for:nr1001 is :First Name: asdd
+ Last name: sddf
+ Status: sdcds
+Status Date: sdcscd
+Designation: sdccs
+The nurse Record for:sdfdsfsd  added
+The nurse Record for:sdfdsf  added
+The nurse Record for:sdfsdf  added
+The nurse Record for:dcdsc  added
+The nurse Record for:sdcdc  added
+The nurse Record for:sddscs  added
+The nurse Record for:sdvdvs  added
+The nurse Record for:hjgj  added
+The nurse Record for:kkjbjhb  added
+The doctor Record for:kninhh  added
+The nurse Record for:sdfsdf  added
+The accesses Record for:nr1001 is :First Name: dfdsf
+ Last name: sdfsdf
+ Status: sdfsdf
+Status Date: sdfdsf
+Designation: sdfdsf
+The nurse Record for:sdfsd  added
+The doctor Record for:sdfdf  added
+The doctor Record for:sdfhdsf  added

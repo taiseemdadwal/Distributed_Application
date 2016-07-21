@@ -1,0 +1,10 @@
+module clinic {
+	interface Clinic{
+		boolean createDRecord(in string managerID, in string fname, in string lname, in string address,  in string location, in string phone, in string specialization) ;
+		boolean createNRecord(in string managerID, in string fname, in string lname, in string designation, in string status, in string statusDate);
+		string recordCount(in string managerID, in string recordType);
+		boolean editRecord(in string managerID,in string recordID, in string fieldName, in string newValue);
+		string accessRecord(in string managerID, in string recordID);
+		boolean transferRecord(in string managerID,in string recordID, in string remoteClinicServer);
+	};
+};

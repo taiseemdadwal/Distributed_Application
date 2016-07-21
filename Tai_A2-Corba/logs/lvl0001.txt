@@ -1,0 +1,33 @@
+The nurse Record for:sdffsdf
+Record added
+The nurse Record for:ahmed
+Record added
+Sorry edit operation was unsuccessfull for:dr1001...sorry!!
+Sorry the given id DR1001...doesn't exist!!
+The doctor Record for:taiseem  added
+The accesses Record for:dr1002 is :First Name: taiseem
+ Last Nameahmed
+Address:asdsd
+Location: lvl
+Specializationasddafa
+The doctor Record for:adfdf  added
+The nurse Record for:dfdfgf  added
+The nurse Record for:nr1003 field :statuschnaged to :value kaminna
+The accesses Record for:nr1003 is :First Name: sd
+ Last name: dfdfgf
+ Status: value kaminna
+Status Date: dfggd
+Designation: dfgdfg
+The nurse Record for:fgfg  added
+The nurse Record for:ghhf  added
+The accesses Record for:nr1002 is :No record found
+The accesses Record for:nr1003 is :First Name: nr1001
+ Last name: ghhf
+ Status: ghvgh
+Status Date: hjgvjgg
+Designation: cbf
+Sorry the given id nr1002...doesn't exist!!
+Sorry the given id nr1002...doesn't exist!!
+Sorry the given id nr1003...doesn't exist!!
+Sorry the given id nr1001...doesn't exist!!
+Sorry the given id nr1001...doesn't exist!!

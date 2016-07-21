@@ -1,0 +1,6 @@
+Jul 07, 2016 2:07:34 PM program.Server.ClinicServer createNRecord
+INFO: New Nurse added to the..DDOby The Manager : ddo0001Cilinic with Record ID : NR1002  Name:djhfgdhj
+Jul 07, 2016 2:10:44 PM program.Server.ClinicServer createNRecord
+INFO: New Nurse added to the..DDOby The Manager : ddo0001Cilinic with Record ID : NR1004  Name:conc
+Jul 07, 2016 2:11:02 PM program.Server.ClinicServer createNRecord
+INFO: New Nurse added to the..DDOby The Manager : ddo0001Cilinic with Record ID : NR1005  Name:conc

@@ -1,0 +1,4 @@
+Jul 07, 2016 2:07:09 PM program.Server.ClinicServer createDRecord
+INFO: New Doctor added to the..MTLClinic with following details Record ID : DR1001  Name:sdfdf
+Jul 07, 2016 2:09:24 PM program.Server.ClinicServer createDRecord
+INFO: New Doctor added to the..MTLClinic with following details Record ID : DR1003  Name:sdfhdsf
